@@ -1,1 +1,8 @@
 User Stories:
+- As a university student, I want to be able to view internship and employment opportunities from various companies in a centralized location
+
+- As an upcoming graduate I want to learn tips and strategies for interviewing
+
+- As a student who has not been in the workforce, I need help writing a resume and learning what employers are looking for on it
+
+- As a recent graduate I want to see examples of resumes and interviews to solidify my skills and make myself a good potential hire
