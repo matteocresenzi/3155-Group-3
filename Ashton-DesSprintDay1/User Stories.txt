@@ -1,0 +1,13 @@
+﻿As a Uncc student, I want to be able to figure out how my projects in cci contribute to a resume so that I can create the best possible resume.
+
+
+As a graduate student I want to know what hiring managers are looking for so that I can make srue my resume meets their requirements.
+
+
+As a College freshman I want to know pre-emptivly what classes I can use for a portfolio so that I can build a resume for an internship.
+
+
+As a college student who has never written a resume, I want to know what I need in one so that when I eventually apply for a job I do not panic.
+
+
+As a jr who is looking for an internship, I want to know what I can do to stand out from the crowd so that i can guarantee an internship.
