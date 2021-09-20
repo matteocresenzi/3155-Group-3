@@ -1,0 +1,9 @@
+User stories
+
+As a student, I want to be able to participate in multiple internships program to gain hands-on experience, but I’m not sure where to find those opportunities.
+
+As a senior student, I want career recruiters to have access to my portfolio and resume
+
+As a senior student, I want to be able to compare my resume to with another student’s resume
+
+As a senior student, I want to have access to the most frequent interview questions for the job that I’m applying for.

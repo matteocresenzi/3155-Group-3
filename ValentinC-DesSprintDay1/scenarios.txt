@@ -1,0 +1,24 @@
+Christian is 22 years old. He recently transferred from a community college. 
+Christian is perusing a computer science degree, but as many other transfer students, 
+he has difficulty navigate between multiple apps to accomplish different tasks. 
+Christian is looking for a single app that allows his to schedule meeting with his advisor, 
+upload his resume and apply for jobs. Fortunately, Christian found and add about 
+this app that allows the student to upload their resume, apply for jobs and upload personal projects. 
+Using this app Christian was able to apply for a job at the university.
+
+Emily is 20 years old computer science student, after several meetings with her career advisor, 
+she is still confused about what career path she should follow. She enjoys coding and playing games, 
+but Cyber Security sounds very interesting too. Her career advisor told her that she can’t go wrong 
+with either concentration, but that advice did not help Emily with her decision. 
+Emily found this app where there is a community of students that help each other 
+answering questions about different concentrations. Additionally, Emily has been 
+able to upload her code and review other student’s code. Emily has decided to concentrate 
+on game development.
+
+Shawn is 25 years old, he decided to return to the university after taking some time off. 
+Since a lot of things have changed since he left, she need help to find career advising, a career center, 
+and community support. So, he asked one of his professors where he should go to get help, 
+especially because between work and school his schedule is complicated. 
+Shawn’s professor advised him to download an app that integrates all these features, 
+this app integrates community support, career advising, job posting, resume checking, and much more. 
+Shawn is very excited that he was able to participate in a supportive community.
