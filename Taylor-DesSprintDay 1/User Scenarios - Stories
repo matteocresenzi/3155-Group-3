@@ -1,1 +1,15 @@
-Temp
+User Stories:
+
+As a junior majoring in computer science, I want to know which types career paths are the most lucradtive for newly graduated students so that I can focus on which classes would help my career path.
+
+As a student that lives off campus, I want to know when career fairs or presentations are happening on campus so that I can attend, network with potential employers. 
+
+As a student without much coding experience, I want to know what types of coding projects employers would like to see on my Github page so that I would look more appealing as a possible candidate.
+
+User Scenarios:
+
+Jake is in the last semester of his senior year of college. He is going to graduate with a degree in computer science, and although he has had a couple internships during his collegiate career, he is having trouble finding local companies that could employ him. He wishes there was some way to see a local listing of jobs that people with computer science degrees could work in.
+
+Emily is a starting her sophomore year majoring in computer science and she knows through her advisor and classes that employers would like to see code samples in her portfolio. She wants to begin building her portfolio, but is unsure of what types of coding samples employers would like to see. She would like guidance or tips on building her portfolio.
+
+Eric is part of the corporate team at indeed.com. He has noticed a lck of college students landing jobs in their fields of study and wants to expand the reach of indeed.com to reach more college students. He would like a program that would help connect students with potential employers.
