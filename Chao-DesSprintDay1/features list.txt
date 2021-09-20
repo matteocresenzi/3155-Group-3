@@ -1,0 +1,6 @@
+Features:
+  Resources that contain tips for career success (interviewing, resume building, etc)
+  Be able to view projects that university alumni have created
+  Be able to contact staff and advisors
+  Integration with calendars to track appointments
+  A place to view company reviews 
