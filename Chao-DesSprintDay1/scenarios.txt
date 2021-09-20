@@ -1,0 +1,14 @@
+Eustace, age 21, is a junior computer science student in Charlotte. He excels in his classwork but lacks real-world experience in his field. 
+He's looking to build his professional skills and his resume. He has met with peers before to practice mock interviewing but would like a more 
+professional way to meet with skilled people to guide him. He wants an app that can schedule meetings to meet with these kinds of people.
+
+Jordan, age 18, is a freshman chemistry student at Charlotte. He hopes to find a passion for learning and wants to take steps towards a 
+successful career. He is open to connecting with students and would like to join a club. Since he's a freshman he's unfamiliar with all 
+the different resources he has available. He would like to be able to find career tips, resources, and information in one spot. 
+He would specifically like resources that linked him to finding extracurricular activities to build his portfolio and resume.
+
+Sarah, age 29, is a graduate Computer Science student from Charlotte. She did not engage in anything other than her classwork which she was
+great at. Because of her lack of experience, it has been hard for her to find a job in the field. Unfortunately, the resources that help 
+guide students in their careers are typically locked behind a Niner account. She wants to find something that can help provide her 
+resume-building guidance, connect with people to perform mock interviews, and be an easy way to connect with companies for basic work experience.
+
