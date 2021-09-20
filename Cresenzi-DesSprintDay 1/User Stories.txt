@@ -1,0 +1,13 @@
+User Stories:
+
+- As a university student, I want to be able to view internship and employment tips that will help me in my job search.
+
+- As a student who is worried about what to look for after I graduate I'm lost in the process and would love for some guidance.
+
+- As a student who is unsure of what career I might even want to pursue I want to see what some of my options might be in different fields.
+
+- As a university student who can get sidetracked easily, especially when it comes to employment search, I want a way to stay in contact with an advisor.
+
+- As a student I want to see examples of what a technical interview might look like.
+
+- As a university student I want to see how I can tailor my resume to better fit the job I'm looking for.
